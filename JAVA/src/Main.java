@@ -7,6 +7,8 @@ class Main {
 
         System.out.println("Code App Test 22");
 
+        System.out.println("한국어 테스트");
+
         ArrayList<String> names = new ArrayList<>();
         names.add("kca");
         names.add("jbs");
