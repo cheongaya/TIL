@@ -8,7 +8,7 @@ class Main {
         System.out.println("Code App Test 22");
 
         System.out.println("한국어 테스트 커밋 테스트");
-        System.out.println("깃허브 푸시 테스트");
+        System.out.println("깃허브 푸시 테스트 코드 수정22");
 
         ArrayList<String> names = new ArrayList<>();
         names.add("kca");
